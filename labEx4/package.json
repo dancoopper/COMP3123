@@ -1,0 +1,15 @@
+{
+  "name": "101481884_comp3123-exec04",
+  "version": "1.0.0",
+  "description": "lab4",
+  "license": "ISC",
+  "author": "Samuel Browne",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
